@@ -6,7 +6,7 @@ include("auth_session.php");
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Dashboard - Client area</title>
+    <title>Dashboard ---- Client area !!!HII </title>
     <link rel="stylesheet" href="style.css" />
 </head>
 <body>
@@ -17,3 +17,4 @@ include("auth_session.php");
     </div>
 </body>
 </html>
+
